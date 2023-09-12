@@ -6,5 +6,5 @@ Voici les instructions :
 1. Coder une interface HTML basique
 2. Rajouter le CSS
 
-![Ultime](profile/img/1.JPG)&nbsp;&nbsp;
+![Ultime](profile/img/3.JPG)&nbsp;&nbsp;
 
