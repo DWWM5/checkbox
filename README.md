@@ -10,7 +10,7 @@ Voici les instructions :
 ![CheckBox](/profile/img/3.jpg)&nbsp;&nbsp;
 
 Et au clique 
-![CheckBox1](/profile/img/4.JPG)&nbsp;&nbsp;
+![CheckBox](/profile/img/4.JPG)&nbsp;&nbsp;
 
 
 
