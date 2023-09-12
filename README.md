@@ -5,7 +5,6 @@ Autoriser :<br>
 Voici les instructions :
 1. Coder une interface HTML basique
 2. Rajouter le CSS
-<br>
 Résultat : 
 <br>
 ![CheckBox](/profile/img/3.jpg)&nbsp;&nbsp;
