@@ -7,7 +7,7 @@ Voici les instructions :
 2. Rajouter le CSS
 <br>
 Résultat : 
-
+<br>
 ![CheckBox](/profile/img/3.jpg)&nbsp;&nbsp;
 
 Et au clique 
