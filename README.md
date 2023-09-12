@@ -6,5 +6,5 @@ Voici les instructions :
 1. Coder une interface HTML basique
 2. Rajouter le CSS
 
-![CheckBox1](../profile/img/3.jpg)&nbsp;&nbsp;
+![CheckBox1](profile/img/3.jpg)&nbsp;&nbsp;
 
