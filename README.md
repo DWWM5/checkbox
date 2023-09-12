@@ -12,7 +12,8 @@ Résultat :
 ![CheckBox](/profile/img/3.jpg)&nbsp;&nbsp;
 
 Et au clique 
-<br>
+
+
 ![CheckBox](/profile/img/4.JPG)&nbsp;&nbsp;
 
 
